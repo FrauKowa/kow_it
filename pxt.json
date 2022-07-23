@@ -6,8 +6,8 @@
         "TCS34725": "github:calliope-edu/pxt-tcs34725fn#225c59a583e945ddf2393d8286986e2e15b4390a",
         "pxt-calliope-PCF85063-RTC": "github:dl1ekm/pxt-calliope-pcf85063-rtc#2c22e4b49c454dde1332ea0271da5feb68bd8ad4",
         "SB_Farbsensor": "github:fraukowa/erweiterungfarbe#2b6805067a2bfbabbcc27c24b7d1abbcbde3fc50",
-        "bingo": "github:fraukowa/bingo#7ae9051f5e4ece5be71cc7f1d99f5e2edf5045fc",
-        "pxt-oled-ssd1306": "github:mkleinsb/pxt-oled-ssd1306#v0.0.5"
+        "pxt-oled-ssd1306": "github:mkleinsb/pxt-oled-ssd1306#v0.0.5",
+        "bingo": "github:fraukowa/bingo#master"
     },
     "files": [
         "main.blocks",
